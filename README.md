@@ -16,4 +16,4 @@ Click on the download icon
 
 ---
 
-Extract the files, you will see a readme.md, a .blend file (3D files), videos files (for animations), and several images.
+Extract the files, you will see a readme.md, a .blend file (3D file), videos files (for animations), and several images.
